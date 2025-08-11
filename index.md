@@ -1,5 +1,3 @@
-# The Ghostworld Codex
-
 *A living archive of a post-scarcity, commune-based future.*
 
 Ghostworld is not a utopia, nor a dystopia — it is a negotiated space.  
