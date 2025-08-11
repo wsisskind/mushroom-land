@@ -4,7 +4,7 @@ Central figures in Ghostworld:
 
 ## Peas Eddy
 
-[Sol Aiden](mushroom-land/characters/peas-eddy/aiden-sol.md)
+[Sol Aiden](peas-eddy/aiden-sol.md)
 
 ## Arlen's Gate
 
@@ -12,4 +12,4 @@ Central figures in Ghostworld:
 
 # Virelia
 
-[Liora](mushroom-land/characters/virelia/liora.md)
+[Liora](virelia/liora.md)
