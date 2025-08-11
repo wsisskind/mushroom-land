@@ -2,7 +2,7 @@
 
 **Role** — Archivist responsible for managing documentation of all kinds related to Virelia, including the history of the Ghost era and all previous and current information regarding culture, art, music, and inklings of news from the rest of the non-Ghost world.  
 **Appearance** — Average height, lithe, dark brown hair, bright hazel eyes. A birthmark on her right shoulder which looks like a feather; her father Rian (who worked at Arlen's Gate and was never found after the Grey Bloom) had the same mark.  
-**Personality** — Thoughtful and introspective, Liora carries a quiet confidence. She is deeply empathetic, with an almost meditative connection to the living network she tends. A natural mediator, she approaches challenges with patience and a steady calm, always listening before acting. Though soft-spoken, her presence is steady and grounding for those around her.
+**Personality** — Thoughtful and introspective, Liora carries a quiet confidence. She is deeply empathetic, with an almost meditative connection to the living network she tends. A natural mediator, she approaches challenges with patience and a steady calm, always listening before acting. Though soft-spoken, her presence is steady and grounding for those around her. 
 **Favorites** — Loves early mornings and the stillness before the commune fully wakes; favors simple herbal infusions, especially chamomile and mint blends; enjoys weaving new knot patterns as a form of creative expression; carries a small, worn notebook filled with sketches and reflections on mycelial growth.
 
 ---
